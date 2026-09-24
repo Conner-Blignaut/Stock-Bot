@@ -1,0 +1,33 @@
+universe = [
+        "AAPL", "MSFT", "GOOGL", "AMZN", "META", "NVDA", "JPM", "XOM", "PG", "KO", "GOOG", "AVGO", "TSLA", "MU", "LLY", "AMD", "WMT",
+        "V", "INTC", "JNJ", "MA", "ABBV", "ORCL", "PLTR", "CSCO", "COST", "CVX", "BAC", "LRCX", "AMAT", "MRK", "CAT", "DELL",
+        "UNH", "GE", "MS", "PANW", "HD", "NFLX", "PM", "GS", "SNDK", "ANET", "RTX", "CRWD", "GEV", "WFC", "TXN", "KLAC", "TMO",
+        "MRVL", "C", "AMGN", "IBM", "LIN", "QCOM", "STX", "AXP", "APH", "VZ", "CRM", "DE", "GILD", "ADI", "ABT", "DIS", "PEP",
+        "MCD", "TMUS", "SCHW", "BLK", "T", "ETN", "WDC", "WELL", "NEE", "UNP", "PFE", "BA", "DHR", "BX", "COP", "TJX", "UBER", "ISRG",
+        "NOW", "GLW", "NEM", "PLD", "VRTX", "CB", "FTNT", "BMY", "BKNG", "COF", "PH", "LMT", "PGR", "SPGI", "MDT", "MO", "ACN", "HOOD",
+        "CVS", "LOW", "APP", "MPC", "VLO", "SBUX", "ADP", "FCX", "SYK", "EQIX", "MCK", "PSX", "BNY", "SO", "VRT", "PWR", "TT", "CME",
+        "ABNB", "HCA", "ADBE", "CEG", "GD", "USB", "PNC", "MAR", "DUK", "HWM", "DDOG", "JCI", "KKR", "MMM", "ELV", "WMB", "MNST", "CSX",
+        "EMR", "ICE", "LITE", "CDNS", "DASH", "WM", "AMT", "UPS", "BE", "MCO", "MRSH", "HPE", "REGN", "CTAS", "CMCSA", "SHW", "SNPS",
+        "SPG", "INTU", "MDLZ", "ECL", "WBD", "SLB", "ITW", "MSI", "TRV", "ROST", "APO", "GM", "EOG", "MRNA", "CVNA", "NOC", "CMI", "CI",
+        "TGT", "NSC", "DLR", "FDX", "KMI", "ORLY", "HLT", "CL", "MPWR", "HON", "RSG", "AEP", "BSX", "URI", "APD", "RCL", "TER", "TEL",
+        "TDG", "MET", "COHR", "AON", "TRGP", "COR", "PCAR", "NXPI", "GWW",  "KEYS", "AJG", "TFC", "CRH", "ALL", "FAST", "AFL", "FIX", "BKR",
+        "OKE", "OXY", "AME", "PSA", "NUE", "D", "GRMN", "DAL", "DVN",  "CTVA", "NKE", "O", "COIN", "HONA", "SRE", "NDAQ", "CIEN", "F",
+        "FANG", "CAH", "EW", "BDX", "STT", "WAB", "EBAY", "ETR", "VMRK",  "FITB", "ROK", "A", "VST", "XYZ", "AZO", "ADSK", "CARR", "WDAY",
+        "AMP", "PYPL", "XEL", "VTR", "LHX", "HUM", "IQV", "EXC", "KDP",  "FERG", "FLEX", "VEEV", "WAT", "IBKR", "CMG", "ARES", "MCHP",
+        "IDXX", "CBRE", "PAYX", "PRU", "DHI", "MSCI", "ADM", "LYV", "AIG", "SYY", "TTWO", "ED", "YUM", "NTAP", "UAL", "ILMN", "AXON", "P",
+        "ODFL", "EL", "ROP", "TKO", "MLM", "IRM", "HIG", "KR", "PEG",  "KVUE", "HSY", "DXCM", "EXPE", "STLD", "WEC", "EME", "BIIB", "KMB",
+        "JBL", "ACGL", "MTB", "VMC", "EQT", "RMD", "NTRS", "HBAN", "CNC",  "CCI", "RJF", "CCL", "ZTS", "RDDT", "GEHC", "MTD", "EXR", "HPQ",
+        "IR", "ON", "KHC", "TDY", "PCG", "AEE", "WTW", "CBOE", "ECHO", "CFG", "WSM", "HAL", "SMCI", "FOXA", "DG", "VRSN", "CPRT", "AWK",
+        "ATO", "WRB", "CTSH", "VICI", "Q", "WST", "DTE", "OTIS", "DGX", "FE", "CPAY", "INCY", "LVS", "FFIV", "FOX", "CINF", "LH", "XYL",
+        "DOV", "ES", "CNP", "PPL", "FISV", "TPL", "EXPD", "SW", "PFG", "DRI", "HUBB", "PPG", "RF", "ULTA", "SYF", "VLTO", "PHM", "CHD",
+        "TPR", "GPN", "VRSK", "JBHT", "TROW", "IFF", "KEY", "L", "CASY", "NRG", "DLTR", "FSLR", "EIX", "BG", "PKG", "BRO", "OMC", "RL",
+        "LUV", "DOW", "STE", "CMS", "EXE", "STZ", "LEN", "AMCR", "BBY", "FICO", "VTRS", "SNA", "CHTR", "LYB", "NI", "GIS", "IP", "EFX",
+        "SBAC", "BR", "CDW", "EVRG", "ESS", "CF", "TSN", "FIS", "ZBH", "GPC", "NDSN", "DD", "FDXF", "CHRW", "TSCO", "ZBRA", "AKAM", "FTV",
+        "NVR", "BEN", "LNT", "J", "IEX", "NWS", "GEN", "INVH", "RVTY", "BALL", "ROL", "NWSA", "WY", "HST", "LDOS", "PTC", "KIM", "SOLV",
+        "APA", "DOC", "EG", "MAA", "SWK", "TRMB", "ALB", "MAS", "REG", "IVZ", "CRL", "TYL", "SWKS", "TXT", "AIZ", "MKC", "ALLE", "AVY",
+        "GL", "SJM", "LII", "GDDY", "HAS", "ERIE", "BAX", "GNRC", "DVA", "UDR", "CSGP", "LULU", "BXP", "TECH", "PSKY", "PNW", "IT",
+        "HRL", "ALGN", "DECK", "HII", "AES", "UHS", "CLX", "COO", "JKHY", "CPT", "FDS", "DPZ", "MGM", "HSIC", "PODD", "FRT", "ARE", "APTV",
+        "PNR", "WYNN", "AOS", "MOS", "NCLH"
+    ]
+
+universe_small = [ "AAPL", "MSFT", "GOOGL", "AMZN", "META", "NVDA", "JPM", "XOM", "PG", "KO", "GOOG", "AVGO", "TSLA", "MU", "LLY", "AMD", "WMT" ]
